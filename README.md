@@ -17,6 +17,7 @@
 
 *Special thanks to the original author of this project [@spencerwooo](https://github.com/spencerwooo) and all contributors*
 
+## After set NODE_VERSION environment variable to 20
 
 ## TL;DR
 
